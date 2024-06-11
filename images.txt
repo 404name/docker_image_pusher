@@ -1,6 +1,6 @@
 alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
-gitlab/gitlab-runner:alpine-v16.2.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+redis:5.0.9
+sameersbn/postgresql
+sameersbn/gitlab:11.8.1
