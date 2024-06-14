@@ -4,3 +4,4 @@ kasmweb/nginx:1.25.3
 redis:5.0.9
 sameersbn/postgresql
 sameersbn/gitlab:11.8.1
+budtmo/docker-android:emulator_11.0
