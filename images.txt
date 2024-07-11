@@ -1,1 +1,1 @@
-strm/helloworld-http:latest
+minio/minio:latest
